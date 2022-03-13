@@ -1,2 +1,2 @@
 # diff-practice
-practice for git diff command
+stagingArea変更1回目
